@@ -8,8 +8,8 @@
 #
 
 #your home dir
-HOME=$(shell echo ~)
-#HOME=/opt/a10hacking
+#HOME=$(shell echo ~)
+HOME=/opt/a10hacking
 #where your tarballs go
 TARBALLS=$(HOME)/xbmctmp/tarballs
 #whether to compile for armhf
